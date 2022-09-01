@@ -2,7 +2,7 @@
     "name": "Music Bot",
     "description": "Telegram Music Bot allows you to stream music trought the telegram voice chat feature !!",
     "keywords": ["telegram music bot", "voice chat", "pytgcalls"],
-    "repository": "https://github.com/Itz-Zaid/Music-Bot-v2",
+    "repository": "https://github.com/jaabirosman/Music-Cloner",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -52,12 +52,12 @@
         "SUPPORT": {
             "description": "fill with your bot support group, please fill valid username",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "osmanigroupbot"
         },
         "UPDATE": {
             "description": "fill with your bot update channel, please fill valid username",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "teamosmani"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
